@@ -1,0 +1,159 @@
+/***************************************************************************
+ *   Copyright (C) 2006 by Patrick Stinson                                 *
+ *   patrickkidd@gmail.com                                                 *
+ *                                                                         *
+ *   This program is free software; you can redistribute it and/or modify  *
+ *   it under the terms of the GNU General Public License as published by  *
+ *   the Free Software Foundation; either version 2 of the License, or     *
+ *   (at your option) any later version.                                   *
+ *                                                                         *
+ *   This program is distributed in the hope that it will be useful,       *
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty of        *
+ *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         *
+ *   GNU General Public License for more details.                          *
+ *                                                                         *
+ *   You should have received a copy of the GNU General Public License     *
+ *   along with this program; if not, write to the                         *
+ *   Free Software Foundation, Inc.,                                       *
+ *   59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.             *
+ ***************************************************************************/
+
+ Patrick K. Stinson
+
+ Current Address:
+ 1341 P St (Apt B)
+ Anchorage Alaska, 99501
+ patrickkidd@gmail.com
+ (907)-677-6662
+
+ Personal Projects:
+ http://www.patrickkidd.com/
+ http://pkaudio.sourceforge.net/
+ http://pksampler.sourceforge.net/
+
+ Source Code:
+ https://svn.patrickkidd.com/pk/repos
+ https://svn.patrickkidd.com/make.conf
+
+
+EXPERIENCE
+==========
+
+(2003-2006) Programming Consultant, General Communications, Inc., Anchorage, AK
+ * Member of GCI Official Trusted Contractor List, 2006.
+ * Implemented web provisioning for one of state's largest employers.
+ * Designed and implemented visual site layout for www.gci.net.
+ * Designed and implemented complex web/REST architecture.
+ * Extensive corporate Zope/Plone application design, development.
+ * Wrote Python bindings for ISC-DHCPCTL (www.isc.org).
+ * Translated Cold Fusion markup to TALES (www.zope.org).
+ * Deeply integrated the python language on all levels.
+
+(Fall,Winter 2003) IT Consultant, Alaska Urological Associates, Anchorage, AK
+ * Installed CAT scanner application network (www.merge.com),
+ * Implemented custom automated LAN systems using open tools on windows.
+ * Installed and maintained exposed VPN.
+ * Supported state-wide proprietary billing platform on Solaris.
+
+(Spring 2003) Teaching Assistant, Queen Mary College, London England
+ * Tutored undergraduates in multi-threading and operating system concepts.
+ * First undergraduate to be offered a position at the college.
+ * Used C and Java, and MPI parallel library.
+ * Subsequently approached as advisee by several professors, a significant
+   break in academic protocol.
+
+(2000-2002) C Programming Intern, General Communications, Inc., Anchorage, AK
+ * Developed utility to decode raw binary telephone switch (Lucent 5e) data.
+ * Developed switch data search utility for use in billing system.
+ * Wrote perl-generating Python code, which generated COBOL file descriptors.
+
+(1997-2000) - Network Administrator, Conam Construction, Anchorage, AO
+ * Designed, deployed, managed 30+ seat LAN project.
+ * Installed NT PDC, BDC, email server and firewall.
+ * Trained and supported local personnel.
+
+
+EDUCATION
+=========
+
+B.S. Computer Science (Queen Mary College, University of London,
+London England) Completed May 2003, Final Score 2A
+
+
+HIGHLIGHTS
+==========
+
+Platforms, Practices:
+ - POSIX, Darwin, Win32
+ - apache/mod_python, Zope/Plone
+ - RAD, TDD, UML, AJAX, REST
+ - MIDI, OSC
+ - alsa, jack, CoreAudio, ogg/vorbis
+ - Audacity, Soundforge, Propellerheads Reason, Ardour, etc...
+ - VS.NET
+
+Languages, Tools:
+ - Python, C, C++, HTML,XML/Javascript,DHTML/CFM, sh, Perl, Java,
+TALES, more...
+ - Qt (1-4), qmake
+ - gcc (3, 4), mingw
+ - emacs, bash, ssh
+ - subversion, cvs
+ - trac, mysql, php
+ - X11, KDE
+
+Code I've read:
+ - Python, CPython (2.2-2.5)
+ - Qt (3,4)
+ - kdelibs
+ - PyQt (3,4)
+ - jack-audio-connection-kit
+ - jackdmp
+ - ardour
+ - gstreamer
+ - xorg-xserver
+ - Zope/CMF/Plone
+ - gentoo/portage
+
+
+INTERESTS, PHILOSOPHY
+=====================
+
+    I have been employed as a computer programmer a total of 7 years,
+3 of which where under independent contract. I have experience in
+almost every field of computer programming, and can feel comfortable
+in any development environment. I take my code very seriously, and
+promote its clarity and maintainability above all else.
+
+    Today I use Python for almost everything. I am familar with the
+C-Python API, and have read and written many Python extensions using
+it. I have complete knowledge and understanding of the Qt toolkit
+(trolltech.com) and PyQt, its python bindings
+(riverbankcomputing.co.uk). 
+
+    Other personal interests include music production and cross -
+country running and skiing. I consider healthy living to be an
+important part of being successful both personally and
+professionally. This makes me a better programmer, and more
+importantly, a better person.
+
+
+REFERENCES
+==========
+
+Terry Nidiffer (VP, Product Department) General Communications, Inc.
+tnidiffer@gci.com
+(907)-868-0109
+
+Troy Melhase (Software Engineer, Level II) General Communications, Inc
+troy@gci.net
+(907)-868-7066
+
+Ray Teninty (Project Manager, Product Department), General Communications, Inc.
+(907)-868-7010
+rteninty@gci.com
+
+Bob Nigh (Programming Contractor)
+bobnigh@ak.net
+(907)-248-1466
+

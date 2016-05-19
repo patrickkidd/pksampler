@@ -1,0 +1,39 @@
+Install instructions for libraries and applications in the PK source
+code repository.
+
+
+REQUIREMENTS
+===============================================================================
+
+ - python 2.3 or 2.4
+ - PyQt4
+ - numarray
+ - libsndfile
+ - pyogg, pyvorbis
+
+
+INSTALL
+===============================================================================
+
+Perform the following instructions to install everything in the
+repository. This is what most people want to do.
+
+$ python setup.py build
+$ python setup.py install
+
+The above script is seperated into indepenent and re-usable peices, which can be build and installed like the above script.
+
+setup_rtaudio.py - python audio I/O
+setup_midi.py - python midi I/O
+setup_soundtouch.py - dsp library
+setup_sndfile.py - sound file I/O
+setup_pk.py - PK modules/apps
+
+
+UPDATE
+===============================================================================
+
+To download the newest code, type the following command in this
+directory:
+
+$ svn up
